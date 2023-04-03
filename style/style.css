@@ -169,9 +169,8 @@ h2{
      .logo1 img{
        width: 300px;
        display:flex;
-      margin-top: 5px;
-       justify-content: center;
-       margin-left: 5px;
+          padding-top: 5px;
+       margin-left: 45px;
       
               }
 
@@ -197,14 +196,15 @@ h2{
     border-radius: 50px;}
     .SINOPSIS img{
       display: flex;
-       width: 100px;
+       width: 150px;
         margin: 10px;
     }
    
 
 .VER-ONLINE img{
- width: 100px;
- border-radius: 50px;
+ width: 150px;
+ border-radius: 60px;
+ margin-top: 40px;
       }
       .online{
         font-size: 15px;
@@ -214,24 +214,27 @@ h2{
    background-color:rgb(138, 181, 230) ;
    height: 150px;
    display: flex;
-   font-size: 14px;
+   font-size: 10px;
   justify-content: space-between;
               }
   .IZQUIERDA{
   flex-direction: column;
   justify-content: last left;
-  font-size: 15px ;
+  font-size: 14px ;
   display: flex;
   }
         
   .derecha{
     background-color: hwb(186 30% 32% / 0.8);
-     padding: 10px;
+    padding: 10px;
     margin-right: 20px;
-    font-size: 15px;
+    font-size: 10px;
     margin-top: 80px;
     border-radius: 20px;
-                                }
+   }
+   .final{
+    font-size: 10px;
+   }
  }
   
 
