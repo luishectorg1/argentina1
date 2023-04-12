@@ -170,7 +170,7 @@ h2{
        width: 300px;
        display:flex;
           padding-top: 5px;
-       margin-left: 45px;
+       margin-left: 50px;
       
               }
 
@@ -228,12 +228,12 @@ h2{
     background-color: hwb(186 30% 32% / 0.8);
     padding: 10px;
     margin-right: 20px;
-    font-size: 10px;
+    font-size: 15px;
     margin-top: 80px;
     border-radius: 20px;
    }
    .final{
-    font-size: 10px;
+    font-size: 15px;
    }
  }
   
